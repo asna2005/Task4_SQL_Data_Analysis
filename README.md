@@ -1,5 +1,4 @@
-# Task4_SQL_Data_Analysis
-This repository contains SQL queries and screenshots for Task 4 – SQL for Data Analysis.
+
 # Task 4 – SQL for Data Analysis  
 
 This repository contains my work for *Task 4 of the Data Analyst Internship*.  
